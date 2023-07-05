@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 9b64821340dec425684c0bca40f2e980
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5607421308539711493
+    second: 960px-Katakana_origine.svg_0
+  - first:
+      213: 9201796605505144715
+    second: 960px-Katakana_origine.svg_1
+  - first:
+      213: 3378155955262264523
+    second: 960px-Katakana_origine.svg_2
+  - first:
+      213: 2185112464136797521
+    second: 960px-Katakana_origine.svg_3
+  - first:
+      213: -7588248148417276389
+    second: 960px-Katakana_origine.svg_4
+  - first:
+      213: -3210070274259361382
+    second: 960px-Katakana_origine.svg_5
+  - first:
+      213: 7835894387369987899
+    second: 960px-Katakana_origine.svg_6
+  - first:
+      213: -7417285330850178171
+    second: 960px-Katakana_origine.svg_7
+  - first:
+      213: -4725746104511020225
+    second: 960px-Katakana_origine.svg_8
+  - first:
+      213: 6689378494175687780
+    second: 960px-Katakana_origine.svg_9
+  - first:
+      213: -5969169634053928110
+    second: 960px-Katakana_origine.svg_10
+  - first:
+      213: 2579056436480855699
+    second: 960px-Katakana_origine.svg_11
+  - first:
+      213: 1140944403023664009
+    second: 960px-Katakana_origine.svg_12
+  - first:
+      213: 2953599413369737240
+    second: 960px-Katakana_origine.svg_13
+  - first:
+      213: 1809586730803945121
+    second: 960px-Katakana_origine.svg_14
+  - first:
+      213: -3295314977394259916
+    second: 960px-Katakana_origine.svg_15
+  - first:
+      213: -840648905600112431
+    second: 960px-Katakana_origine.svg_16
+  - first:
+      213: -4227267274135940184
+    second: 960px-Katakana_origine.svg_17
+  - first:
+      213: -714005364221117061
+    second: 960px-Katakana_origine.svg_18
+  - first:
+      213: 5669413453598152995
+    second: 960px-Katakana_origine.svg_19
+  - first:
+      213: -3813405109828824344
+    second: 960px-Katakana_origine.svg_20
+  - first:
+      213: 7766156276046884102
+    second: 960px-Katakana_origine.svg_21
+  - first:
+      213: -3874022400650730434
+    second: 960px-Katakana_origine.svg_22
+  - first:
+      213: -5928546063248077213
+    second: 960px-Katakana_origine.svg_23
+  - first:
+      213: -4824021895828155297
+    second: 960px-Katakana_origine.svg_24
+  - first:
+      213: 147332881342426687
+    second: 960px-Katakana_origine.svg_25
+  - first:
+      213: 5741789170714402304
+    second: 960px-Katakana_origine.svg_26
+  - first:
+      213: 8788807755110214417
+    second: 960px-Katakana_origine.svg_27
+  - first:
+      213: 3371554491299445252
+    second: 960px-Katakana_origine.svg_28
+  - first:
+      213: -8080016853350404568
+    second: 960px-Katakana_origine.svg_29
+  - first:
+      213: -4908417529079434338
+    second: 960px-Katakana_origine.svg_30
+  - first:
+      213: -8407973311090284053
+    second: 960px-Katakana_origine.svg_31
+  - first:
+      213: 2563722315903922151
+    second: 960px-Katakana_origine.svg_32
+  - first:
+      213: 3650085617031433496
+    second: 960px-Katakana_origine.svg_33
+  - first:
+      213: -8641432177262255993
+    second: 960px-Katakana_origine.svg_34
+  - first:
+      213: -395626509801902859
+    second: 960px-Katakana_origine.svg_35
+  - first:
+      213: 2221587911484159070
+    second: 960px-Katakana_origine.svg_37
+  - first:
+      213: 4284430674136040248
+    second: 960px-Katakana_origine.svg_39
+  - first:
+      213: 8506779637236709682
+    second: 960px-Katakana_origine.svg_40
+  - first:
+      213: 2584629637042788401
+    second: 960px-Katakana_origine.svg_41
+  - first:
+      213: 4036274566743290170
+    second: 960px-Katakana_origine.svg_42
+  - first:
+      213: 1253046742127096487
+    second: 960px-Katakana_origine.svg_43
+  - first:
+      213: 7212831269006402831
+    second: 960px-Katakana_origine.svg_44
+  - first:
+      213: -2322671116563219143
+    second: 960px-Katakana_origine.svg_45
+  - first:
+      213: -5502401522415737840
+    second: 960px-Katakana_origine.svg_49
+  - first:
+      213: 4714290190953058376
+    second: 960px-Katakana_origine.svg_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 962
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500377188ff81dd40800000000000000
+      internalID: 5607421308539711493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 963
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87878e624953bf70800000000000000
+      internalID: 9201796605505144715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 962
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4174d61fe91ee20800000000000000
+      internalID: 3378155955262264523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 962
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15df62b7534135e10800000000000000
+      internalID: 2185112464136797521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 962
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b169216638021b690800000000000000
+      internalID: -7588248148417276389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 866
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91eabed71a8373d0800000000000000
+      internalID: -3210070274259361382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 866
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f4aa0dd60bebc60800000000000000
+      internalID: 7835894387369987899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_7
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 866
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b95f04a42801990800000000000000
+      internalID: -7417285330850178171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 867
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f334fedb4f6ca6eb0800000000000000
+      internalID: -4725746104511020225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 867
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464ba717c4275dc50800000000000000
+      internalID: 6689378494175687780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 771
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bca2608df392da0800000000000000
+      internalID: -5969169634053928110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 770
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e40202a26aac320800000000000000
+      internalID: 2579056436480855699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_12
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 771
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98312bab3e275df00800000000000000
+      internalID: 1140944403023664009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_13
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 771
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81094b2840b4df820800000000000000
+      internalID: 2953599413369737240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_14
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 771
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae54d74b81fc1910800000000000000
+      internalID: 1809586730803945121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 675
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4380465cc70b442d0800000000000000
+      internalID: -3295314977394259916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 674
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d862e8364a6554f0800000000000000
+      internalID: -840648905600112431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_17
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 675
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a35e7aafcab555c0800000000000000
+      internalID: -4227267274135940184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_18
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 675
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d70e977e75716f0800000000000000
+      internalID: -714005364221117061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_19
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 676
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329d98a8f7dcdae40800000000000000
+      internalID: 5669413453598152995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 579
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e25ef3c140141bc0800000000000000
+      internalID: -3813405109828824344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 579
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60de1f77cfde6cb60800000000000000
+      internalID: 7766156276046884102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_22
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 579
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34ae4de625bc3ac0800000000000000
+      internalID: -3874022400650730434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_23
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 579
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ece8924c299bda0800000000000000
+      internalID: -5928546063248077213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_24
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 579
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54d47ef4a1ad0db0800000000000000
+      internalID: -4824021895828155297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 483
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e6628997e6b0200800000000000000
+      internalID: 147332881342426687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 484
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00edd9754deeeaf40800000000000000
+      internalID: 5741789170714402304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 484
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bea82961e18f970800000000000000
+      internalID: 8788807755110214417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_28
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 484
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ab6c252fa2ace20800000000000000
+      internalID: 3371554491299445252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_29
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 483
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e21ec4b730edf80800000000000000
+      internalID: -8080016853350404568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 388
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e937be1634cc1ebb0800000000000000
+      internalID: -4908417529079434338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 388
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9af7722d0e05b80800000000000000
+      internalID: -8407973311090284053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 388
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efe136fcdb249320800000000000000
+      internalID: 2563722315903922151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_33
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 387
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dcbea9785b7a230800000000000000
+      internalID: 3650085617031433496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_34
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 387
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78027a31837731880800000000000000
+      internalID: -8641432177262255993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 292
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fca78319c3728af0800000000000000
+      internalID: -395626509801902859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 292
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54b05d5f6aa4de10800000000000000
+      internalID: 2221587911484159070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_39
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 292
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8338aac8ffa557b30800000000000000
+      internalID: 4284430674136040248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 196
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239350c52072e0670800000000000000
+      internalID: 8506779637236709682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_41
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 195
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138d1eff5f27ed320800000000000000
+      internalID: 2584629637042788401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_42
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 195
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a317da6555ab30830800000000000000
+      internalID: 4036274566743290170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_43
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 196
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2327f7f57b36110800000000000000
+      internalID: 1253046742127096487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_44
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 196
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05e4fde2df191460800000000000000
+      internalID: 7212831269006402831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 100
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d703fece634cfd0800000000000000
+      internalID: -2322671116563219143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_49
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 100
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01467d4e7fa83a3b0800000000000000
+      internalID: -5502401522415737840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 960px-Katakana_origine.svg_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8409dd783f58c6140800000000000000
+      internalID: 4714290190953058376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: b57944136cdc642688d9c9cbe6a1e746
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4477785464156296755
+    second: hiragana-g-01_0
+  - first:
+      213: -2692278635206095326
+    second: hiragana-g-01_1
+  - first:
+      213: -7825463235484313226
+    second: hiragana-g-01_2
+  - first:
+      213: -8583445198270255999
+    second: hiragana-g-01_3
+  - first:
+      213: -5136814154334168771
+    second: hiragana-g-01_4
+  - first:
+      213: 5256296074544949560
+    second: hiragana-g-01_5
+  - first:
+      213: 6905332378120185425
+    second: hiragana-g-01_6
+  - first:
+      213: 2428098331383670699
+    second: hiragana-g-01_7
+  - first:
+      213: 4168025850558158105
+    second: hiragana-g-01_8
+  - first:
+      213: -1028202126708297920
+    second: hiragana-g-01_9
+  - first:
+      213: 4330625426925163785
+    second: hiragana-g-01_10
+  - first:
+      213: 7325030490675692077
+    second: hiragana-g-01_11
+  - first:
+      213: 8957065030037538751
+    second: hiragana-g-01_12
+  - first:
+      213: -129297519508024310
+    second: hiragana-g-01_13
+  - first:
+      213: -660631279911773888
+    second: hiragana-g-01_14
+  - first:
+      213: -966416617072791865
+    second: hiragana-g-01_15
+  - first:
+      213: 8642218716322793602
+    second: hiragana-g-01_16
+  - first:
+      213: -1833301191760796534
+    second: hiragana-g-01_17
+  - first:
+      213: -9009968082030570494
+    second: hiragana-g-01_18
+  - first:
+      213: 2414199047975177850
+    second: hiragana-g-01_19
+  - first:
+      213: -5434008642497462507
+    second: hiragana-g-01_20
+  - first:
+      213: 4147595051578173670
+    second: hiragana-g-01_21
+  - first:
+      213: -3801323668858308142
+    second: hiragana-g-01_22
+  - first:
+      213: 2386628769774085586
+    second: hiragana-g-01_23
+  - first:
+      213: 2032864325199529928
+    second: hiragana-g-01_24
+  - first:
+      213: -2551114564491062539
+    second: hiragana-g-01_25
+  - first:
+      213: 7307587794390738571
+    second: hiragana-g-01_26
+  - first:
+      213: 2925446505168053865
+    second: hiragana-g-01_27
+  - first:
+      213: -5200638244200985782
+    second: hiragana-g-01_28
+  - first:
+      213: 2058412729745735088
+    second: hiragana-g-01_29
+  - first:
+      213: 238887074488537383
+    second: hiragana-g-01_30
+  - first:
+      213: 8915849111737067453
+    second: hiragana-g-01_31
+  - first:
+      213: 8497993764522125953
+    second: hiragana-g-01_32
+  - first:
+      213: 5194318437132949567
+    second: hiragana-g-01_33
+  - first:
+      213: 4999253521083943939
+    second: hiragana-g-01_34
+  - first:
+      213: 3501832486185102292
+    second: hiragana-g-01_35
+  - first:
+      213: 3347136528437151011
+    second: hiragana-g-01_36
+  - first:
+      213: -1756988346190292127
+    second: hiragana-g-01_37
+  - first:
+      213: -1525780222032211224
+    second: hiragana-g-01_38
+  - first:
+      213: -7731603061240773137
+    second: hiragana-g-01_39
+  - first:
+      213: 8987448300229478178
+    second: hiragana-g-01_40
+  - first:
+      213: 7142158172156293722
+    second: hiragana-g-01_41
+  - first:
+      213: 5134959079278520379
+    second: hiragana-g-01_42
+  - first:
+      213: -956650766837851450
+    second: hiragana-g-01_43
+  - first:
+      213: 3343944907319875111
+    second: hiragana-g-01_44
+  - first:
+      213: 814832533136092434
+    second: hiragana-g-01_45
+  - first:
+      213: 8693572232831654126
+    second: hiragana-g-01_46
+  - first:
+      213: 4831813127097483150
+    second: hiragana-g-01_47
+  - first:
+      213: 5189217015823030664
+    second: hiragana-g-01_48
+  - first:
+      213: 5133735434763511698
+    second: hiragana-g-01_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hiragana-g-01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1690.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc96e8c38d5bbd1c0800000000000000
+      internalID: -4477785464156296755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1690.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eca2878da13aad0800000000000000
+      internalID: -2692278635206095326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_2
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1690.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679141ef5ae566390800000000000000
+      internalID: -7825463235484313226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_3
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1690.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ca118b11a71e880800000000000000
+      internalID: -8583445198270255999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_4
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1690.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3996bd1ebe56b8b0800000000000000
+      internalID: -5136814154334168771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_5
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1690.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83928854e6d12f840800000000000000
+      internalID: 5256296074544949560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_6
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1690.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1566bdd363ba4df50800000000000000
+      internalID: 6905332378120185425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_7
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 1690.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7a7d9519652b120800000000000000
+      internalID: 2428098331383670699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_8
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 1690.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9151a2d8d6dc7d930800000000000000
+      internalID: 4168025850558158105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_9
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 1690.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f20480d971bb1f0800000000000000
+      internalID: -1028202126708297920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1268.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2241adeb6cb7a560800000000000000
+      internalID: 7325030490675692077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_13
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1268.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04926f4794a43ef0800000000000000
+      internalID: -129297519508024310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_14
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1268.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049d851e957f4d6f0800000000000000
+      internalID: -660631279911773888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_15
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1268.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce675205399692f0800000000000000
+      internalID: -966416617072791865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_16
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1268.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28807a152245fe770800000000000000
+      internalID: 8642218716322793602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_17
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 1268.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a842cc2874ece86e0800000000000000
+      internalID: -1833301191760796534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_18
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 1268.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204d5f824c926f280800000000000000
+      internalID: -9009968082030570494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_19
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 1268.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e85af3e35f08120800000000000000
+      internalID: 2414199047975177850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f39852ee58694b0800000000000000
+      internalID: -5434008642497462507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 846.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e82c7979b73f8930800000000000000
+      internalID: 4147595051578173670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_22
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 846.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d97a61734cfe3bc0800000000000000
+      internalID: -3801323668858308142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_23
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 846.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5ac11a8320f1120800000000000000
+      internalID: 2386628769774085586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_24
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 846.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7051c455f263c10800000000000000
+      internalID: 2032864325199529928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_25
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 846.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f25f2ae1de989cd0800000000000000
+      internalID: -2551114564491062539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_26
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 846.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86e3a9b164c96560800000000000000
+      internalID: 7307587794390738571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_27
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 846.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96623f5c816499820800000000000000
+      internalID: 2925446505168053865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_28
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 846.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bc611321f93d7b0800000000000000
+      internalID: -5200638244200985782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_29
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 846.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdf2a5c873f09c10800000000000000
+      internalID: 2058412729745735088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 424.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7e11867857bbb70800000000000000
+      internalID: 8915849111737067453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_33
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 424.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38529f091de51840800000000000000
+      internalID: 5194318437132949567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_34
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 424.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c445a179ae06540800000000000000
+      internalID: 4999253521083943939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_35
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 424.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db6cf9b712099030800000000000000
+      internalID: 3501832486185102292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_36
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 424.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3250b3050fa637e20800000000000000
+      internalID: 3347136528437151011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_37
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 424.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b93d6786ced97e0800000000000000
+      internalID: -1756988346190292127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_38
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 424.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e21474d8f653dae0800000000000000
+      internalID: -1525780222032211224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_39
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 424.4
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5cb66caf3d3b490800000000000000
+      internalID: -7731603061240773137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.399994
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227cd5c8c94d9bc70800000000000000
+      internalID: 8987448300229478178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2.399994
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52770d440b0e1360800000000000000
+      internalID: 7142158172156293722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_42
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2.399994
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b382090931a034740800000000000000
+      internalID: 5134959079278520379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_43
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2.399994
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca5684323b49b2f0800000000000000
+      internalID: -956650766837851450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_44
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2.399994
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726174d1d24186e20800000000000000
+      internalID: 3343944907319875111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_45
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 2.399994
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d22092fddde4b00800000000000000
+      internalID: 814832533136092434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_46
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 2.399994
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8512f92e5c5a870800000000000000
+      internalID: 8693572232831654126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_47
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 2.399994
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ff6b5607c0e0340800000000000000
+      internalID: 4831813127097483150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_48
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 2.399994
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8895b8ad16dc30840800000000000000
+      internalID: 5189217015823030664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana-g-01_49
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 2.399994
+        width: 327.9
+        height: 422.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2972aef9d21be3740800000000000000
+      internalID: 5133735434763511698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

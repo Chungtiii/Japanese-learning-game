@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 75a5d25ce02e64fe795caabbc707e02b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 29344384686685510
+    second: katakana-g-01_0
+  - first:
+      213: -5780026110832490763
+    second: katakana-g-01_1
+  - first:
+      213: 2122080670380556644
+    second: katakana-g-01_2
+  - first:
+      213: -8915480754431362090
+    second: katakana-g-01_3
+  - first:
+      213: 5559180619634831937
+    second: katakana-g-01_4
+  - first:
+      213: 3171239982400229745
+    second: katakana-g-01_5
+  - first:
+      213: 1132179641344401097
+    second: katakana-g-01_6
+  - first:
+      213: -6302683835407062520
+    second: katakana-g-01_7
+  - first:
+      213: -6725272941941548783
+    second: katakana-g-01_8
+  - first:
+      213: 9021996091472391783
+    second: katakana-g-01_9
+  - first:
+      213: 5450234749321009426
+    second: katakana-g-01_10
+  - first:
+      213: 1617644536699024981
+    second: katakana-g-01_11
+  - first:
+      213: 5405188892836762093
+    second: katakana-g-01_12
+  - first:
+      213: -3638532024483504376
+    second: katakana-g-01_13
+  - first:
+      213: 2367701106272552448
+    second: katakana-g-01_14
+  - first:
+      213: -5321528609035493012
+    second: katakana-g-01_15
+  - first:
+      213: 532072635511030983
+    second: katakana-g-01_16
+  - first:
+      213: -2093273797848127847
+    second: katakana-g-01_17
+  - first:
+      213: 2578291698610878001
+    second: katakana-g-01_18
+  - first:
+      213: -2536893600605907754
+    second: katakana-g-01_19
+  - first:
+      213: 4000772062247118717
+    second: katakana-g-01_20
+  - first:
+      213: 4560375626303042280
+    second: katakana-g-01_21
+  - first:
+      213: -5330865779094285540
+    second: katakana-g-01_22
+  - first:
+      213: 8176197235818867236
+    second: katakana-g-01_23
+  - first:
+      213: -7596883859662464131
+    second: katakana-g-01_24
+  - first:
+      213: -935118991489144174
+    second: katakana-g-01_25
+  - first:
+      213: 2631670712409268674
+    second: katakana-g-01_26
+  - first:
+      213: -3840623103196632522
+    second: katakana-g-01_27
+  - first:
+      213: -704659064708303627
+    second: katakana-g-01_28
+  - first:
+      213: 7071091480068963737
+    second: katakana-g-01_29
+  - first:
+      213: 7963823735204290883
+    second: katakana-g-01_30
+  - first:
+      213: -8002613810637101663
+    second: katakana-g-01_31
+  - first:
+      213: -7266389484872296121
+    second: katakana-g-01_32
+  - first:
+      213: -3227110538916535971
+    second: katakana-g-01_33
+  - first:
+      213: -6708820760778481434
+    second: katakana-g-01_34
+  - first:
+      213: 3625541678067437353
+    second: katakana-g-01_35
+  - first:
+      213: -8837959340651009939
+    second: katakana-g-01_36
+  - first:
+      213: 4132941603479431064
+    second: katakana-g-01_37
+  - first:
+      213: 5092760939036993174
+    second: katakana-g-01_38
+  - first:
+      213: 6328036744460110113
+    second: katakana-g-01_39
+  - first:
+      213: 786573145281988758
+    second: katakana-g-01_40
+  - first:
+      213: -1327287743951708284
+    second: katakana-g-01_41
+  - first:
+      213: 1672136736511943589
+    second: katakana-g-01_42
+  - first:
+      213: 2702804351512053998
+    second: katakana-g-01_43
+  - first:
+      213: -1936775913083591462
+    second: katakana-g-01_44
+  - first:
+      213: -3480384492827872446
+    second: katakana-g-01_45
+  - first:
+      213: 8260581747416515485
+    second: katakana-g-01_46
+  - first:
+      213: -1507829413158529277
+    second: katakana-g-01_47
+  - first:
+      213: 7590734381222360306
+    second: katakana-g-01_48
+  - first:
+      213: -1366492668916969338
+    second: katakana-g-01_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: katakana-g-01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1692
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64df669ff80486000800000000000000
+      internalID: 29344384686685510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1692
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6c85740e839cfa0800000000000000
+      internalID: -5780026110832490763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1692
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46181ce5025237d10800000000000000
+      internalID: 2122080670380556644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_3
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1692
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db79467d79d54480800000000000000
+      internalID: -8915480754431362090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_4
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1692
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142f19bd15d262d40800000000000000
+      internalID: 5559180619634831937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_5
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1692
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1715b7846f1820c20800000000000000
+      internalID: 3171239982400229745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_6
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1692
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce1340a26f46bf00800000000000000
+      internalID: 1132179641344401097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_7
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1692
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a27fad17e5888a0800000000000000
+      internalID: -6302683835407062520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_8
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 1692
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119170e24e70ba2a0800000000000000
+      internalID: -6725272941941548783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_9
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 1692
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eac2505a1943d70800000000000000
+      internalID: 9021996091472391783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1269
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556fbcea227037610800000000000000
+      internalID: 1617644536699024981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_13
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1269
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f17c8c666518dc0800000000000000
+      internalID: -3638532024483504376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_14
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1269
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006ccad8c93cbd020800000000000000
+      internalID: 2367701106272552448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_15
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1269
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c616c5cbce12626b0800000000000000
+      internalID: -5321528609035493012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_16
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1269
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c447523e3d426700800000000000000
+      internalID: 532072635511030983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_17
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1269
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99621ad429233f2e0800000000000000
+      internalID: -2093273797848127847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_18
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 1269
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1363a07b3aee7c320800000000000000
+      internalID: 2578291698610878001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_19
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 1269
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d45ce616b42bccd0800000000000000
+      internalID: -2536893600605907754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77eb8d5ef8958730800000000000000
+      internalID: 4000772062247118717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 846
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e274206875b94f30800000000000000
+      internalID: 4560375626303042280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_22
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 846
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c139ccb61d5f406b0800000000000000
+      internalID: -5330865779094285540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_23
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 846
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aa38e0110b77170800000000000000
+      internalID: 8176197235818867236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_24
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 846
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b9be03162729690800000000000000
+      internalID: -7596883859662464131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_25
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 846
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a61915b3ac503f0800000000000000
+      internalID: -935118991489144174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_26
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 846
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c124fad192958420800000000000000
+      internalID: 2631670712409268674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_27
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 846
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a6ec9d2ad53bac0800000000000000
+      internalID: -3840623103196632522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_28
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 846
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f47d48605c8836f0800000000000000
+      internalID: -704659064708303627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_29
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 846
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d3dc3ac30912260800000000000000
+      internalID: 7071091480068963737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_31
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 423
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5275e832101f090800000000000000
+      internalID: -8002613810637101663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_33
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 423
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51e5f410100733d0800000000000000
+      internalID: -3227110538916535971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_34
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 423
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0680c101b75e2a0800000000000000
+      internalID: -6708820760778481434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_35
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 423
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f459f72f2805230800000000000000
+      internalID: 3625541678067437353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_36
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 423
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68a6212ec2495580800000000000000
+      internalID: -8837959340651009939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_37
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 423
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89723d8bd782b5930800000000000000
+      internalID: 4132941603479431064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_38
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 423
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696e849671f1da640800000000000000
+      internalID: 5092760939036993174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_39
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 423
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1290a2744e3b1d750800000000000000
+      internalID: 6328036744460110113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6980562bb187aea00800000000000000
+      internalID: 786573145281988758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f570344d6849de0800000000000000
+      internalID: -1327287743951708284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_42
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3eca3a08f943710800000000000000
+      internalID: 1672136736511943589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_43
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee88145dc3a428520800000000000000
+      internalID: 2702804351512053998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_44
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 0
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4ae1b81903f15e0800000000000000
+      internalID: -1936775913083591462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_45
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243773f5eb033bfc0800000000000000
+      internalID: -3480384492827872446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_46
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 0
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9346d4355b73a270800000000000000
+      internalID: 8260581747416515485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_47
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 0
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307dcc6332d131be0800000000000000
+      internalID: -1507829413158529277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_48
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 0
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f47a19c3b4b75960800000000000000
+      internalID: 7590734381222360306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katakana-g-01_49
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 0
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6805709582e390de0800000000000000
+      internalID: -1366492668916969338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
